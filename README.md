@@ -25,7 +25,7 @@
 
   ## [Contributing](#table-of-contents)
   
-  No
+  https://github.com/coding-boot-camp/potential-enigma
 
   ## [Tests](#table-of-contents)
 
